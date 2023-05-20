@@ -11,6 +11,8 @@ python = ">=3.9,<=3.10"
 flask = "^2.3.2"
 fastapi = "^0.95.2"
 sqlalchemy = "^2.0.15"
+httpx = "^0.24.1"
+uvicorn = "^0.22.0"
 
 
 [tool.poetry.group.dev.dependencies]
